@@ -1,1 +1,3 @@
-# jmg-css-reset
+# Reset CSS
+
+Base CSS reset file
