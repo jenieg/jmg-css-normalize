@@ -1,3 +1,3 @@
-# Reset CSS
+# Normalize CSS
 
-Base CSS reset file
+Base CSS normalize file
